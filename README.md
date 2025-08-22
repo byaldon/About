@@ -27,3 +27,6 @@ The open book further emphasizes the pursuit of knowledge and learning, suggesti
 
 This combination serves as an inspiring reminder of the value of knowledge and the wisdom that comes with age.
 
+The reason why this is been choosen is not because i want to look smarter then anyone else.. Because i am not.
+It just comes from my real name. I did some research on my real first and last name.. And the name Aldon is what came out of this.
+
