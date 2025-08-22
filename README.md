@@ -1,7 +1,21 @@
+# Hi my name is John!
+
+
+Hello! My name is **John**. I am a developer primarily focused on **[WordPress](https://en.wikipedia.org/wiki/WordPress "WordPress")**. This is where my main expertise lies. I work on creating plugins and themes, and I have a vision of eventually developing my own WordPress system that will be fully transparent regarding privacy.
+
+In my free time, I sometimes engage in other projects, such as creating apps for **[Second Life](https://en.wikipedia.org/wiki/Second_Life "Second Life")**. I also develop web applications and software for **[Windows](https://en.wikipedia.org/wiki/Microsoft_Windows "Windows")** and **[Android](https://tinu.be/EkuommdT9)**.
+
+After a long journey of self-discovery regarding what I want to do with my life, I have realized that design and programming are my true passions, and I often dedicate a lot of time to them.
+
+I intend to use this GitHub primarily as a sort of **portfolio**, but I mainly utilize it for hosting my programming projects.
+
+------------
+
+### Summary of the Name Aldon and Its Symbolism
+
 <img src="https://github.com/user-attachments/assets/5f99a7c7-8b42-4c93-8145-7324d7ef0a6f" alt="Owl and Book" style="width: 350px; height: auto;"/>
 
 
-### Summary of the Name Aldon and Its Symbolism
 
 The name **Aldon** is a creative blend that resonates with themes of wisdom and age. Derived from the elements "old" and "man," it embodies the essence of an "old wise man," reflecting a deep respect for knowledge and experience.
 
