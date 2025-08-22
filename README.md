@@ -7,6 +7,8 @@ In my free time, I sometimes engage in other projects, such as creating apps for
 
 After a long journey of self-discovery regarding what I want to do with my life, I have realized that design and programming are my true passions, and I often dedicate a lot of time to them.
 
+I want to focus on the transparency of privacy. I aim to be honest and open about this. I will never collect data without consent. Your data is your data, and you are the one who decides what happens to it.
+
 I intend to use this GitHub primarily as a sort of **portfolio**, but I mainly utilize it for hosting my programming projects.
 
 ------------
