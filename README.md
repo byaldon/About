@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/b81b3f5a-0159-4a80-b253-01c2a213943d" alt="Owl and Book" style="width: 350px; height: auto;"/>
+<img src="https://github.com/user-attachments/assets/5f99a7c7-8b42-4c93-8145-7324d7ef0a6f" alt="Owl and Book" style="width: 350px; height: auto;"/>
+
 
 ### Summary of the Name Aldon and Its Symbolism
 
